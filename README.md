@@ -1,9 +1,5 @@
 # AIEP — ACM Industrial Expereience Program
 
-
-![ACM](logo.png)
-
-
 **AIEP** is **ACM Industrial Experience Program.** Every year ACM PESUECC takes on a few projects with a small team for each project, and we emulate the development pipeline used in the Industry.
 
 
